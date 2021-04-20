@@ -1,0 +1,2 @@
+- I am Tovarisch the Alive Snake
+- I program in Python
